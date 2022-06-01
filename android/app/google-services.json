@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4853628222",
+    "project_id": "firekrutik-512",
+    "storage_bucket": "firekrutik-512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4853628222:android:62a23c82a3d32fadb0006f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4853628222-v8a1ikrg6tqc9mc4a39ln7g6bcp31o38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcpS8JVuLBahNDRp730P5W9DiTotljBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4853628222-v8a1ikrg6tqc9mc4a39ln7g6bcp31o38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
